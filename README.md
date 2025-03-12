@@ -96,6 +96,12 @@ neural-chatbot/
 └── templates/      # Web interface templates
 ```
 
+<h1 align="center">Screenshots</h1>
+
+<p align="center">
+  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-03-12%20092120.png" width="30%" alt="Image 1">
+</p>
+
 ## ⚙️ Configuration
 
 Modify `intents.json` to customize:
