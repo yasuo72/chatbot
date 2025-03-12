@@ -132,5 +132,5 @@ For any queries or suggestions, please open an issue in the repository.
 ---
 
 <div align="center">
-Made with ❤️ and 🤖
+Made with ❤️ and 🤖 by ROHIT
 </div>
